@@ -1,7 +1,7 @@
 # AI Companion App - Complete Setup & Features
 
 ## 🎬 Demo Video
-
+https://drive.google.com/file/d/1o6aj_nV8uwjSK6q5WwFzi06Ilq4NttYH/view?usp=drive_link
 ---
 
 ## 🎉 **COMPLETED FEATURES**
