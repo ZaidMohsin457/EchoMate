@@ -1,0 +1,11 @@
+django 
+djangorestframework 
+djangorestframework-simplejwt 
+django-cors-headers 
+pillow 
+psycopg2-binary 
+django-extensions 
+python-decouple
+groq
+requests
+python-dotenv
